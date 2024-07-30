@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on software building programs
 - 📫 How to reach me telegram
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- telegram; +254703708019
+- X; @mesket
+
 
 <!---
 Lazischemes/Lazischemes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
